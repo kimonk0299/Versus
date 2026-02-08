@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base XML theme. Compose uses its own Material 3 theme (see ui/theme/Theme.kt). -->
+    <!-- This is only needed for the splash/launch screen before Compose loads. -->
+    <style name="Theme.Versus" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
